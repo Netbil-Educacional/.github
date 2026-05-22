@@ -20,7 +20,7 @@ para escolas, alunos e professores.
 
 | 🎮 Jogos lançados | 👩‍🎓 Alunos impactados | 📅 Anos de Netbil |
 |:------------------:|:---------------------:|:-----------------:|
-| +4500              | +5.000                | +20               |
+| +4500              | +200.000                | +20               |
 
 ---
 
